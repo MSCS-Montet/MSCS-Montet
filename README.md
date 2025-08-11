@@ -5,7 +5,7 @@
 - 📫 How to reach me jmontet@southeastmn.edu
 
 ### Note
-Sure, it was lame to use the default icons for the profile, but I'm a newbie here in GitHub (as of early 2022). Those of us that work alone simply don't need much in the way of change management - but I'm learning.
+Sure, it was lame to use the default icons for the profile, but I'm a newbie. Those of us that work alone simply don't need much in the way of change management - but I'm learning.
 
 Rock on, fellow travelers. Stay frosty.
 
